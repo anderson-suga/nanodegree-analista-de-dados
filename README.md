@@ -23,7 +23,7 @@ __Módulos__:
     
   <dt>5. Modelos de Classificação<dt>
   <dd>You will use classification models, such as logistic regression, decision tree, forest, and boosted, to make predictions of binary and non-binary outcomes.</dd>
-  <dd>Projeto: Prevendo o risco de calote</dd>
+  <dd>Projeto: <a href="https://github.com/anderson-suga/nanodegree-analista-de-dados/tree/master/Projetos/05.%20Prevendo%20o%20risco%20de%20calote">Prevendo o risco de calote</a></dd>
     
   <dt>6. A/B Testing<dt>
   <dd>Understand the fundamentals of A/B testing, including experimental design, variable selection, and analyzing and interpreting results.</dd>
