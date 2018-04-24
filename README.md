@@ -27,7 +27,7 @@ __Módulos__:
     
   <dt>6. A/B Testing<dt>
   <dd>Understand the fundamentals of A/B testing, including experimental design, variable selection, and analyzing and interpreting results.</dd>
-  <dd>Projeto: Prevendo o impacto do lançamento de um novo menu</dd>
+  <dd>Projeto: <a href="https://github.com/anderson-suga/nanodegree-analista-de-dados/tree/master/Projetos/06.%20Prevendo%20o%20impacto%20do%20lan%C3%A7amento%20de%20um%20novo%20menu">Prevendo o impacto do lançamento de um novo menu</a></dd>
     
   <dt>7. Time Series Forecasting<dt>
   <dd>Understand trend, seasonal, and cyclical behavior of time series data. Use time series decomposition plots. Build ETS and ARIMA models.</dd>
