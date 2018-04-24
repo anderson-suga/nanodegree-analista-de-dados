@@ -1,0 +1,4 @@
+Etapa_1.yxmd = Wrangle data
+Etapa_2.yxmd = Investigação das variáveis
+Etapa_3.yxmd = Criando A/B Controls
+Etapa_4.yxmd = Analisando perfomance A/B
