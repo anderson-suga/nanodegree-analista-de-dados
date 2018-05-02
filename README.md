@@ -31,7 +31,7 @@ __Módulos__:
     
   <dt>7. Time Series Forecasting<dt>
   <dd>Understand trend, seasonal, and cyclical behavior of time series data. Use time series decomposition plots. Build ETS and ARIMA models.</dd>
-  <dd>Projeto: Prever a demanda de um videogame</dd>
+  <dd>Projeto: <a href="https://github.com/anderson-suga/nanodegree-analista-de-dados/tree/master/Projetos/07.%20Prever%20a%20demanda%20de%20um%20videogame">Prever a demanda de um videogame</a></dd>
     
   <dt>8. Segmentation and Clustering<dt>
   <dd>Understand the difference between localization, standardization, and segmentation. Scale data to prepare a dataset for cluster modeling. Use principal components analysis (PCA) to reduce the number of variables for cluster model. Build and apply a k-centroid cluster model. Visualize and communicate the results of a cluster model.</dd>
