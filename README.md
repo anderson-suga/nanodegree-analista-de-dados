@@ -38,3 +38,4 @@ __Módulos__:
   <dd>Projeto: Projeto de conclusão</dd>
 </dl>
 
+![Nanodegree - Analista de dados](https://github.com/anderson-suga/nanodegree-analista-de-dados/blob/master/Certificado/nd008-br.jpg)
